@@ -5,7 +5,7 @@
     'version': '1.2',
     'description': "Runbot",
     'author': 'OpenERP SA',
-    'depends': ['website'],
+    'depends': ['base_setup', 'website'],
     'external_dependencies': {
         'python': ['matplotlib'],
     },
