@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Twitter Wall',
+    'name': 'Twitter Wall ',
     'category': 'Website',
-    'summary': 'Pretty Way to Display Tweets for Event',
+    'summary': 'Pretty Way to Display Tweets for Event, And Dsipllay Tetsting purpose',
     'version': '1.0',
     'description': """
 Display your social media to large screen
