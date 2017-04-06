@@ -2,7 +2,7 @@
 {
     'name': 'Twitter Wall ',
     'category': 'Website',
-    'summary': 'Pretty Way to Display Tweets for Event, And Dsipllay Tetsting purpose',
+    'summary': 'Pretty Way to Display Tweets for Event, And Dsipllay Tetsting',
     'version': '1.0',
     'description': """
 Display your social media to large screen
