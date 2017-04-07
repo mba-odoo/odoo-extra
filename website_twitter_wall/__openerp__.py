@@ -5,7 +5,7 @@
     'summary': 'Pretty Way to Display Tweets for Event',
     'version': '1.0',
     'description': """
-Display your social media to large screen
+Display your social media to large screen good
 =========================================
 
 Turn your event into an interactive experience by letting everybody post messages and photos to your Twitter wall. Connect with the crowd and build a personal relationship with attendees.
